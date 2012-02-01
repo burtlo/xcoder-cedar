@@ -1,2 +1,1 @@
-
-puts "Xcode-Cedar library file"
+puts "Xcode_Cedar library file"
